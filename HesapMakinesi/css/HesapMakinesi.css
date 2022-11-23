@@ -1,0 +1,42 @@
+.sayfa{
+    width: 360px;
+    margin:auto;
+}
+
+table{
+    background: rgb(46, 33, 15);
+    border-spacing: 10px;
+    text-align: center;
+}
+
+table .btn{
+    width: 60px;
+    background: rgb(118, 145, 64);
+    text-align: center;
+    line-height: 60px;
+    color:black;
+    font-size: 1.8em;
+}
+
+table .islem,
+table .gösterge{
+    height: 60px;
+    background: rgb(81, 121, 35);
+    color: rgb(0, 0, 0);
+    font-size: 1.8em;
+    text-align: right;
+    line-height: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+table .islem{
+    height: 40px;
+    background: rgb(81, 121, 35);
+    color: rgb(0, 0, 0);
+    font-size: 1em;
+    text-align: right;
+    line-height: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+}
